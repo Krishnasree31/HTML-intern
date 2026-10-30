@@ -1,0 +1,16 @@
+When we enter a website URL (such as www.google.com) in a browser, the browser first finds the website's server using DNS. Then it sends a request to the server to access the website. The server sends back the required files, such as HTML, CSS, JavaScript, and images. The browser reads these files and displays the website on the screen. This process allows us to view and interact with the website.
+Website 1: Google
+https://www.google.com
+1.Structure: Simple homepage with a search bar, Google logo, and search buttons.
+2. Design: Clean, minimal, and user-friendly design with a white background.
+3. How it might be built: HTML for structure, CSS for styling, and JavaScript for interactive features.
+Website 2: Amazon
+https://www.amazon.in
+1. Structure: Contains a navigation bar, search bar, product categories, offers, and product sections.
+2. Design: Attractive shopping layout with multiple images, banners, and product cards.
+3. How it might be built: HTML, CSS, and JavaScript for the frontend, with backend technologies and databases to manage products, users, and orders.
+Website 3: YouTube
+https://www.youtube.com
+1. Structure: Contains a navigation sidebar, search bar, video thumbnails, channel names, and video categories.
+2. Design: Modern layout with a dark and light theme, video thumbnails, and easy navigation.
+3. How it might be built: HTML, CSS, and JavaScript for the interface, with backend services to manage videos, accounts, and recommendations.
